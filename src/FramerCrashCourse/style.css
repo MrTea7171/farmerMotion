@@ -1,0 +1,36 @@
+.FramerCrashCourse {
+    padding: 2rem;
+}
+
+.box-container {
+    padding-bottom: 5rem;
+}
+
+.box {
+    height: 10rem;
+    width: 10rem;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxItem {
+    width: 0.5rem;
+    height: 0.5rem;
+    background-color: white;
+    padding: 1rem;
+    list-style: none;
+    margin-bottom: 0.5rem;
+}
+
+.box-container button {
+    color: white;
+    padding: 0.5rem 2rem;
+    margin-right: 1rem;
+    margin-bottom: 3rem;
+    border: none;
+    background-color: rgb(48, 155, 197);
+    font-size: 1rem;
+}
